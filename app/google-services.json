@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095216315822",
+    "project_id": "mesajlasmauygulamasi01",
+    "storage_bucket": "mesajlasmauygulamasi01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095216315822:android:e353293b6331185ad9dc3f",
+        "android_client_info": {
+          "package_name": "com.example.mesajlasmauygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Ztal01GBAUEJH35yZ9PG3ZIDbgRpCy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
